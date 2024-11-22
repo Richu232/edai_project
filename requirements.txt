@@ -244,9 +244,6 @@ python-rapidjson==1.20
 pyttsx3==2.98
 pytube==15.0.0
 pytz==2024.2
-pyvis==0.3.2
-pywin32==307
-pywin32-ctypes==0.2.3
 PyYAML==6.0.2
 qdrant-client==1.11.3
 rank-bm25==0.2.2
